@@ -165,6 +165,7 @@ if __name__ == "__main__":
 0. Online 
 1. INNER-WALL, OUTER-WALL - if thick shell??
 2. Viz in 3d
+3. Bridging
 
 
 
